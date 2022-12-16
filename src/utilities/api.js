@@ -1,7 +1,7 @@
 import axios from "axios";
 
 
-const BASE_PATH = 'https://movie-ticket-app-server.herokuapp.com/api/';
+const BASE_PATH = 'https://movie-ticket-application-backend.vercel.app/api/';
 const headers = {
     'check': 'check'
 };
